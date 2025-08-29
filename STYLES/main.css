@@ -61,7 +61,7 @@ a:hover {
 h2 {
     display: flex;
     margin: 40px 80px;
-    
+    cursor: pointer;
 }
 h2:hover {
      color: #3b1217;
