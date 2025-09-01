@@ -94,6 +94,7 @@ display: block;
 
 /*about me*/
 
+
 .about {
     text-align: center;
     font-size: 80px;
@@ -103,6 +104,17 @@ display: block;
     font-size: 40px;
     text-align: center;
     font-weight: 550;
+}
+#arrow {
+    color: #000;
+    text-decoration: none;
+    font-size: 40px;
+    margin: 20px;
+    bottom: 20px;
+
+}
+#arrow:hover {
+    color: #3b1217;
 }
 
 /* resume page */
