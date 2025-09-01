@@ -1,5 +1,5 @@
 document.getElementById("home").onclick = function() {
-    window.location.href = "main.html"; 
+    window.location.href = "index.html"; 
 };
 
 document.getElementById("about").onclick = function() {
