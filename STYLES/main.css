@@ -92,6 +92,7 @@ display: block;
     transform: rotate(-29deg);
     top: 360px;
     left: 830px;
+    cursor: default;
 }
 
 /*about me*/
@@ -103,9 +104,9 @@ display: block;
     font-weight: 700;
 }
 .lorem {
-    font-size: 40px;
+    font-size: 45px;
     text-align: center;
-    font-weight: 550;
+    font-weight: 850;
 }
 #arrow {
     color: #000;
